@@ -1,4 +1,5 @@
-$('#mysidebar').height($(".nav").height());
+<script>
+    $('#mysidebar').height($(".nav").height());
 
 
 $( document ).ready(function() {
@@ -52,7 +53,7 @@ $(function() {
         }
     });
 });
-
+</script>
 
 
 ## Welcome to GitHub Pages 1
