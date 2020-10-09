@@ -125,6 +125,7 @@ li.sidebarTitle {
 
 
 ## Welcome to GitHub Pages 1.2
+just a small change
 
 You can use the [editor on GitHub](https://github.com/danielengblom/testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
